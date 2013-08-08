@@ -1,0 +1,31 @@
+# Debug files
+log.txt
+debug.log
+
+# PHP Storm
+.idea
+.idea/
+.idea/*
+
+# NetBeans
+nbproject
+nbproject/
+nbproject/*
+
+# Crap
+*~
+.DS_Store
+.svn
+.cvs
+.git
+.listing
+*._bak
+*.bak
+*.swp
+thumbs.db
+Thumbs.db
+cache
+.cache
+temp
+tmp
+*.tmp
